@@ -1,0 +1,1 @@
+class Listmcdonalds2ItemModel { }

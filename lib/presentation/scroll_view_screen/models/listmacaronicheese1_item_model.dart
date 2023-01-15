@@ -1,0 +1,1 @@
+class Listmacaronicheese1ItemModel { }
